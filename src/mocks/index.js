@@ -20,12 +20,12 @@ export default [
     {
         title: 'Some need to cook',
         id: '12424533141',
-        likeCount: 433,
+        likeCount: 12,
         complete: true,
     },
     {
-        title: 'Some need to build',
-        id: '1242389141',
+        title: 'React is the best',
+        id: '12425555555541',
         likeCount: 4334,
         complete: false,
     },
